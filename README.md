@@ -6,7 +6,7 @@
 
 ## Installing
 
-[Deploying with Kubernetes](https://backstage.io/docs/deployment/k8s)
+[Deploying with Helm](https://backstage.io/docs/deployment/helm)
 
 ### Create kind cluster
 
